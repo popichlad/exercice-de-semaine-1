@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(161, 173, 226);
+    font-family: sans-serif;
+}
+#paragraphe2{
+    font-weight: bold;
+
+}
+.paragraphe1{
+    font-style: italic;
+
+}
+.list-item{
+    color: blue;
+}
+.article {
+    background-color: yellow;
+}
+.mai_2005{
+    background-color: green;
+    
+}
+ul li{
+    color: blue;
+}

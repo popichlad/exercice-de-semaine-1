@@ -1,0 +1,32 @@
+.container{
+    background-color: rgb(133, 57, 204);
+    padding: 10px;
+    justify-content: s;
+    
+}
+.box{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+.box-highlight{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: blue;
+}
+
+div{
+    margin: 10px;
+}
+.list-item{
+    color: green;
+}
+ol li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    

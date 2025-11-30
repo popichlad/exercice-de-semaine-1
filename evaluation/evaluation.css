@@ -1,0 +1,39 @@
+*{background-color: #be9a08;
+}
+.highlight{
+    color:#2707df;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+
+}
+ul > li{
+    color: #000000;
+    background-color:hwb(29 6% 25%); 
+    font-family:sans-serif;
+    font-weight: bolder;
+    
+}
+.special{
+    width: 55px;
+    height: 50px;     
+    border-width: 2px;
+    border-color: #ece600;
+    border-style: solid;
+    background-color: hwb(29 21% 25%);
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    text-align:r;
+    border-radius: 10px;
+
+
+}
+#element1{
+
+background-color: #ffee00;
+font-weight: bold;
+padding-right: 1pc;
+
+}
